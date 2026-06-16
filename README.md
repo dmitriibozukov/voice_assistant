@@ -39,13 +39,8 @@
 
 <h1> Скриншоты приложения </h1>
 <picture>
-    <img src="./Assets/Home.png" alt="Home Page Screenshot">
-</picture>
-<picture>
-    <img src="./Assets/Settings.png" alt="Settings Page Screenshot">
-</picture>
-<picture>
-    <img src="./Assets/Chat.png" alt="Chat Page Screenshot">
+    <img width="816" height="446" alt="image" src="https://github.com/user-attachments/assets/dd5d8bf8-22e0-461f-b6e5-c4870074f7db" />
+
 </picture>
 
 <h1> Голосовые команды </h1>
