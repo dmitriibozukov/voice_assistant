@@ -356,5 +356,3 @@ INTENT_HANDLERS = {
 <ul>
   <li>Telegram: @bozuko</li>
 </ul>
-
-<i>В проекте используются иконки с сайта <a href="https://icons8.ru/">Icons8.ru</a></i>
