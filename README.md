@@ -111,9 +111,7 @@ INTENT_HANDLERS = {
 
 <h1> Связаться со мной </h1>
 <ul>
-  <li>Почта: your.email@example.com</li>
-  <li>Telegram: @yourusername</li>
-  <li>GitHub: <a href="https://github.com/yourusername/voice-assistant">yourusername/voice-assistant</a></li>
+  <li>Telegram: @bozuko</li>
 </ul>
 
 <i>В проекте используются иконки с сайта <a href="https://icons8.ru/">Icons8.ru</a></i>
