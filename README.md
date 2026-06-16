@@ -35,7 +35,6 @@
   <li><a href="https://huggingface.co/docs/transformers/index">DistilBERT</a> — понимание интентов (дообучен на 250 классов)</li>
   <li><a href="https://github.com/jaywalnut310/vits">VITS Lite</a> — синтез речи</li>
   <li>WinAPI / COM — интеграция с операционной системой Windows</li>
-  <li>Python 3.8+, PyTorch, SoundDevice</li>
 </ul>
 
 <h1> Скриншоты приложения </h1>
