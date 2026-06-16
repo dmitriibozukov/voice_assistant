@@ -21,6 +21,8 @@
 через WinAPI и COM-интерфейсы.
 </p>
 
+https://drive.google.com/file/d/1CB3K-yRdPeNH0EXiamCiA0z3n_6bdAuD/view?usp=sharing
+
 <h1> Ключевые особенности </h1>
 <ul>
   <li><b>Полностью локальная работа</b> — не требует интернета, данные не покидают ваш компьютер</li>
